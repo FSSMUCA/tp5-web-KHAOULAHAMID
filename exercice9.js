@@ -3,4 +3,4 @@ function factorielle(n) {
     return n * factorielle(n - 1);
 }
 
-console.log(factorielle(5)); // 120
+console.log(factorielle(5)); 
